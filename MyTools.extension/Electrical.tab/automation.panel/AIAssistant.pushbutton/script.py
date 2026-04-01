@@ -67,7 +67,7 @@ if user_command:
     ai_response = ask_ai(user_command, model_context)
     
     output.print_md("---")
-    output.print_md("**🤖 AI Response:**")
+    output.print_md(" AI Response:")
     output.print_md(ai_response)
 else:
     output.print_md("*Operation cancelled or empty command provided.*")
