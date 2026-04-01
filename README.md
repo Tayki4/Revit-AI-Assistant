@@ -50,3 +50,5 @@ The architecture follows these steps:
 3. **Running the AI Assistant:** Ensure Ollama with the `llama3` model is running (`ollama run llama3`). Click the AI button and prompt the model in English.
 
 Developed by Osman Taylan Gökçen | https://www.linkedin.com/in/taylan-gokcen/
+
+<img width="891" height="591" alt="image" src="https://github.com/user-attachments/assets/cb8b3d8f-b562-4c51-89e4-f05e798bbc49" />
